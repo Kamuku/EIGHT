@@ -1,0 +1,5 @@
+// Function prototypes 
+void menu_main_menu(void);
+int menu_user_input(void);
+int validate_menu_input(int min, int max);
+int show_menu(void);
